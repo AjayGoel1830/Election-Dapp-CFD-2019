@@ -43,7 +43,7 @@ Questions asked in the house,
 A data set of Aadhar card(containing fingerprints) and voter ID card to validate the students.
 
 Technology we would be using:-
-Azure blockchain,Html,Css,Bootstrap Framework,Api’s for datasets,Solidity language etc
+Azure blockchain,Html,Css,Bootstrap Framework,Api’s for datasets,Solidity language etc.
 
 
 
