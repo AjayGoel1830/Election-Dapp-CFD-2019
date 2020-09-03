@@ -45,10 +45,8 @@ The details  of candidates which contain:
 A data set of Aadhar card (containing fingerprints) and voter ID card to validate the students.
 
 ## Technology we would be using
-Azure blockchain.
-- HMTL.
-- CSS.
-- Bootstrap Framework.
-- Api’s for datasets.
-- Solidity language.
-- And more.
+- Azure Blockchain
+- HTML
+- CSS
+- Bootstrap
+- Solidity
